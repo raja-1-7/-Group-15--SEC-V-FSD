@@ -1,0 +1,132 @@
+{
+  "home": {
+    "featured": [
+      {
+        "id": 1,
+        "title": "Spaghetti Carbonara",
+        "image": "/img/gallery/img_1.jpg",
+        "description": "A classic Italian pasta dish with eggs, cheese, pancetta, and pepper."
+      },
+      {
+        "id": 2,
+        "title": "Chicken Biryani",
+        "image": "/img/gallery/img_2.jpg",
+        "description": "A flavorful Indian rice dish made with marinated chicken and aromatic spices."
+      },
+      {
+        "id": 3,
+        "title": "Vegetarian Tacos",
+        "image": "/img/gallery/img_3.jpg",
+        "description": "Delicious tacos filled with fresh vegetables, beans, and avocado."
+      }
+    ],
+    "categories": [
+      {
+        "id": 1,
+        "name": "Breakfast",
+        "image": "/img/categories/breakfast.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Lunch",
+        "image": "/img/categories/lunch.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Dinner",
+        "image": "/img/categories/dinner.jpg"
+      }
+    ]
+  },
+  "recipes": [
+    {
+      "id": "6d24",
+      "title": "Big-Batch Pancake and Waffle Mix",
+      "image": "https://assets.epicurious.com/photos/5cb8c696cfb0e4498da549de/1:1/w_1920%2Cc_limit/SUNDAY-STASH-APRIL-Pancake-Mix-recipe-100419.jpg",
+      "ingredients": "100g (3½ oz.) split moong dal\n400ml (14 fl oz.) boiling water\n½ teaspoon salt\n½ teaspoon ground turmeric\n1-inch piece piece of fresh root ginger, peeled and roughly chopped\n7 oz. fresh spinach leaves\n2 tablespoons ghee\n2 onions, finely chopped\n1 teaspoon chile powder\n3 tablespoons plain yogurt",
+      "steps": "Step 1\nPut the moong dal in a pan with the measured boiling water, salt, turmeric and ginger. Bring to the boil, then cover and cook over a low to medium heat for 10 minutes. Add the spinach, cover again and cook for another 5 minutes until the lentils are soft and the spinach has wilted.\n\nStep 2\nMeanwhile, heat the ghee in a frying pan, add the onions and cook over a low to medium heat for 10 minutes until golden, then stir in the chile powder. Remove from the heat and set aside.\n\nStep 3\nOnce the lentils are ready, blitz to a purée with a hand blender or in a blender or food processor. Return to the pan, if necessary, and bring to the boil. Then take off the heat, add the yogurt and mix well. Transfer the dal to a serving bowl, top with the fried onions and serve."
+    },
+    {
+      "id": "08b4",
+      "title": "Restaurant Style Paneer Butter Masala",
+      "image": "https://myfoodstory.com/wp-content/uploads/2021/07/Paneer-Butter-Masala-3.jpg",
+      "authorImg": "/img/top-chiefs/default.jpg",
+      "ingredients": "▢1 tablespoon Oil, neutral flavoured like canola, rice bran, sunflower\n▢3 tablespoons Butter, divided\n▢250 grams Paneer cubes, or Cottage Cheese\n▢3 Kashmiri Red Chilies\n▢2 teaspoons Ginger Garlic Paste\n▢1 Bay leaves\n▢1 inch Cinnamon Stick\n▢3 Cloves\n▢2 Cardamoms\n▢1/2 teaspoon Peppercorns\n▢2 tablespoons Cashew Nuts, chopped\n▢1 teaspoon Khus Khus, White Poppy Seeds\n▢1 Onion, roughly chopped\n▢6 Tomatoes, roughly chopped\n▢1 1/2 teaspoon Salt, divided\n▢1/2 teaspoon red Chilli powder, cayenne pepper\n▢1/2 teaspoon Garam masala\n▢1/2 teaspoon Turmeric\n▢1 1/2 tablespoons Ketchup\n▢1 1/2 teaspoon dried Kasuri Methi, roasted and crushed\n▢2 tablespoons Fresh Cream",
+      "steps": "Wrap the whole spices (bay leaf, cardamom, cloves, pepper) in a cheesecloth or muslin to make a bouquet garni\nIn a large pan or kadhai, heat a tablespoon of butter and a tablespoon of oil. Add kashmiri red chillies, ginger garlic paste and saute for a minute. Add onions and cook for another 2-3 minutes. Next add cashews and poppy seeds. Once the onions turn translucent, add tomatoes and a teaspoon of salt. Cook the tomatoes for 2-3 minutes and then add the spice bouquet garni along with 1/2 cup water. Cover and cook this for 15 minutes till the tomatoes soften.\nSet the mixture aside to cool. Once cool, remove the bouquet garni and blend this mixture to a smooth paste. Add another cup of water while blending.\nIn the same pan or kadhai, heat the remaining butter and add the blended tomato onion paste prepared in step #3. Add garam masala powder, chili powder, turmeric, ketchup, 1/2 teaspoon salt along with 1/2 cup water. Bring this to a boil.\nOnce the curry comes to a boil, simmer and cook for 20 minutes, till you can see drops of oil floating to the top and along the sides\nAt this point, you can smoke the gravy if you like. Carefully heat a piece of lump coal using tongs till red hot. Place the coal in a steel bowl and place this bowl in the pan in a way that it doesn't submerge (watch video). Pour a teaspoon of oil on top and as soon as it starts smoking, cover the gravy for 2 minutes.\nIn another pan, dry roast the kasuri methi and grind it to a fine powder. Mix kasuri methi and a tablespoon of curry in the gravy. Add paneer cubes. Mix and simmer for 2 more minutes. Top with more cream or butter and serve hot."
+    },
+    {
+      "id": "0ac0",
+      "title": "Punjabi Samosa",
+      "image": "https://myfoodstory.com/wp-content/uploads/2021/08/Punjabi-Samosa-3.jpg",
+      "authorImg": "/img/top-chiefs/default.jpg",
+      "ingredients": "Samosa Dough\n▢2 cups Maida\n▢¼ cup Ghee, clarified butter\n▢¼ teaspoon Salt\n▢½ cup Water , + a few tablespoons extra, if required\nSamosa Filling\n▢2 tablespoons Oil\n▢1 teaspoon Coriander Seeds\n▢½ teaspoon Saunf, fennel seeds\n▢A pinch of Methi Seeds, fenugreek seeds\n▢1 tablespoon Ginger Paste, freshly ground ginger\n▢1 teaspoon Garlic Paste, freshly ground garlic\n▢1 teaspoon Green Chillies, or Jalapeno (chopped)\n▢2 teaspoons Red Chilli Powder\n▢2 tablespoons Coriander Powder\n▢3/4 teaspoon Turmeric Powder\n▢1 tablespoon Raw Mango Powder, Amchoor\n▢1/2 teaspoon Garam Masala Powder\n▢3 Potatoes, boiled, peeled and mashed (large, approx 360 grams)\n▢6-7 Curry Leaves, finely chopped\n▢Salt to taste\nxs",
+      "steps": "To start making the samosa dough or pastry, mix together flour and salt and add ghee. Rub the ghee with the flour till it resembles bread crumbs. Start by adding 1/2 cup water and knead it into a firm dough. You may need a few extra teaspoons of water but add as you go. The consistency of the dough should be stiff. Don't over knead it. Its normal to see a few cracks and dimples. Cover the dough with a damp cloth and set aside while you make the filling.\nHeat oil in a pan. While the oil is heating, crush the coriander seeds, saunf (fennel seeds) and methi (fenugreek seeds) roughly and add it to the pan. Fry the spices till aromatic but be careful not to burn them. Add ginger, garlic and green chilies and stir fry for a minute or two. Add the remaining spices, mashed boiled potatoes and salt. I like to use a potato masher to just mash everything together and then mix it. Add the curry leaves right at the end, give it one more good mix and then set the mixture aside to cool.\nWrapping the samosas: \nTake a lime sized bowl of dough, roll it between your palms till smooth and dust it with flour. Roll it out into a circle which is less than 1 mm thickness and about 6 inches in diameter. Cut the rolled dough in half. Pick up one half and brush it with a little water along the straight edge of the pastry.\nNow take one edge of the straight side, and place it on the other edge of the straight side in such a way that the dough forms into a cone (watch the video for more clarity). Pinch the corner of the cone so that its sealed. Place a tablespoon and a half of the filling in the cone, making sure to fill it only 3/4th of the way. Brush the inside of the unfilled dough with a little water and seal it by pinching the edge together. Repeat till all the dough is used up. Place the samosas on a greased tray making sure they don’t touch each either and cover them with a damp cloth.\nHeat about 2 inches oil in a pan. To test if the oil is hot enough, add a tiny piece of dough to the oil and if it bubbles and floats slowly to the surface, your oil is ready for frying. Add the samosas to the oil making sure not to overcrowd the pan, and reduce the flame to a simmer. Fry the samosas on a low flame till golden brown on both side. It's important to fry them on a low flame, or the pastry would be raw from the inside and golden brown on the outside. They take 15-20 minutes to fry. Take them out on a plate lined with paper to absorb any extra oil and serve them immediately with ketchup, coriander chutney or tamarind chutney."
+    },
+    {
+      "id": "9201",
+      "title": "Rainbow Rice",
+      "image": "https://myfoodstory.com/wp-content/uploads/2023/12/Rainbow-Rice-16.jpg",
+      "authorImg": "/img/top-chiefs/default.jpg",
+      "ingredients": "▢1 Tablespoon Olive Oil\n▢3 Tablespoons Chopped Paneer\n▢1 Tablespoon Butter\n▢1/2 Teaspoon Chopped Garlic\n▢2 Tablespoons Chopped Onion\n▢2 Tablespoons Chopped Zucchini\n▢2 Tablespoons Chopped Carrot\n▢2 Tablespoons Chopped Red Bell Pepper\n▢2 Tablespoons Corn Kernels\n▢2 Tablespoons Sliced Olives\n▢1/2 Teaspoon Dried Thyme\n▢1/2 Teaspoon Salt\n▢1/2 Teaspoon Pepper\n▢2 Cups Cooked Rice\n▢1 Teaspoon Light Soy Sauce\n▢2 Tablespoons Chopped Spring Onions",
+      "steps": "Heat olive oil in a pan over medium flame and add chopped paneer. Sauté for a few minutes or until golden brown. Remove it from the pan and set aside for later.\nAdd garlic and onions to the same pan and sauté till onions are translucent about 3-4 minutes. Add carrots, zucchini and bell peppers and sauté for 3-4 minutes till the vegetables soften.\nAdd corn and sauté for an additional minute.\nAdd olives, paneer, thyme, salt and pepper and mix to combine.\nAdd the cooked rice and soy sauce and toss for 1-2 minutes. Top with spring onions and serve hot!"
+    },
+    {
+      "id": "95be",
+      "title": "Vegetable Biryani",
+      "image": "https://myfoodstory.com/wp-content/uploads/2020/09/Veg-Biryani-2.jpg",
+      "ingredients": "Rice\n▢400 Grams Long Grained Basmati Rice, 2 Cups\n▢6 Cups Water\n▢½ Tablespoon Salt\n▢½ Tablespoon Oil\nSaffron Milk\n▢2 Tablespoons Milk, hot\n▢10-12 Strands Saffron, crushed\nBiryani Masala\n▢¼ Cup Vegetable Oil\n▢½ inch Cinnamon\n▢1 Bay Leaf\n▢3 Green Cardamoms\n▢3 Cloves\n▢1 Onion, Thinly Sliced, approx ¾ Cup\n▢2-3 Green Chillies, slit lengthwise\n▢1 ½ Tablespoon Ginger Garlic Paste\n▢2 Tomatoes, chopped, approx ¾ Cup\n▢300 Grams Mixed Vegetables, I used Cauliflower, Peas, Carrots, Potatoes, French Beans\n▢½ Cup freshly Chopped Coriander\n▢½ Cup freshly Chopped Mint Leaves\n▢2 Teaspoons Coriander Powder\n▢2 Teaspoons Chilli Powder\n▢¾ Teaspoon Garam Masala\n▢¾ Cup Curd or Greek Yoghurt\n▢1 ½ Teaspoon Salt",
+      "steps": "Wash and rinse the rice to get rid of excess starch. Soak the rice for 30 minutes.\nBring water to a roaring boil in a large stockpot. Add the soaked basmati rice, salt and oil. Mix to combine.\nCook for 7-8 minutes or until the rice is 85% cooked on medium flame. Drain the water once done and keep the rice aside.\nSaffron Milk\nSoak saffron strands in hot milk for 10-15 minutes.\nBiryani Masala\nIn a big heavy bottomed pan or kadai, heat oil on a medium flame. Once hot, add cinnamon, cardamom, cloves and bay leaf. Fry for 30 seconds or until fragrant.\nAdd the sliced onions and fry for 3-4 minutes or until golden brown. Add green chillies and ginger garlic paste and saute for another minute.\nAdd the vegetables, coriander and mint leaves and roast for 2-3 minutes.\nAdd the chopped tomatoes, coriander powder, chili powder and salt and cook for 15-20 minutes or until the vegetables are fully cooked. You should see the oil separating around the edges. You may add a little water if you feel the masala is sticking to the bottom.\nReduce the flame and add yogurt and garam masala to the cooked veggies and keep stir frying for 2-3 minutes till the yogurt completely disappears.\nAssembly\nAdd the par cooked rice on top of the cooked vegetable masala and tuck it at a few places into the masala underneath. Spread out the remaining rice to cover the pot completely.\nDrizzle the saffron milk and ghee over the rice.\nCover the pot with a lid and leave the Biryani to cook on dum for about 15-20 mins. or until the rice is done.\nDrizzle with fried onions and serve hot"
+    },
+    {
+      "id": "44fe",
+      "title": "Guava Pani Puri",
+      "image": "https://myfoodstory.com/wp-content/uploads/2024/10/Guava-Pani-Puri-1.jpg",
+      "ingredients": "For the guava pani\n▢3 medium ripe guavas\n▢2 teaspoons lemon juice\n▢10 mint leaves\n▢5 sprigs coriander leaves\n▢½ teaspoon red chilli powder\n▢1 teaspoon cumin powder\n▢1 teaspoon chat masala\n▢½ teaspoon black salt\n▢3 teaspoons jaggery powder\n▢½ cup water for grinding\n▢10 ice cubes\n▢¼ cup boondi, optional\n▢1 ½ cups water approx for diluting\nFor aloo chana chat\n▢4 medium potatoes, boiled, skinned and roughly mashed, approx 300 grams\n▢¼ cup cooked black chana\n▢½ teaspoon cumin powder\n▢½ teaspoon chat masala\n▢¼ teaspoon kala namak, black salt",
+      "steps": "Making aloo chana chaat\n\nAdd all ingredients to a bowl, mix well and keep aside.\n1 teaspoon chat masala,4 medium potatoes,¼ cup cooked black chana,½ teaspoon cumin powder,½ teaspoon black salt\nPreparing guava pani\nChargrilling guavas – Roast guavas on an open flame for about 10-15 minutes turning every 5 minutes. They are fully roasted when the skin is burnt and flaking and the flesh is soft. Turn off the heat.\n3 medium ripe guavas\nOnce the guavas are warm enough to handle, peel off the charred skin, dice them into large cubes & add to a mixer grinder.\nAdd all the ingredients listed for the guava pani to the mixer grinder except ice cubes, boondi and water & grind to a smooth paste.\n2 teaspoons lemon juice,10 mint leaves,5 sprigs coriander leaves,½ teaspoon red chilli powder,1 teaspoon cumin powder,3 teaspoons jaggery powder,½ teaspoon chat masala,¼ teaspoon kala namak,½ cup water for grinding\nadd 1 ½ cups of water to the mixer & strain the pani through a sieve into a large bowl.\n1 ½ cups water approx for diluting\nAdd boondi & ice cubes to the pani and refrigerate.\n10 ice cubes,¼ cup boondi\nServing pani puri\nFill ½ of each puri with aloo chana chaat.\nDip it in guava pani to fill the puris fully and serve."
+    },
+    {
+      "id": "677f",
+      "title": "Paneer Chocolate Pudding",
+      "image": "https://myfoodstory.com/wp-content/uploads/2024/08/High-Protein-Chocolate-Pudding-3.jpg",
+      "ingredients": "150 gms grated paneer, 1 cup\n▢6 tablespoons milk, ¼ cup + 2 tbsp\n▢1.5 tablespoons cocoa powder + for dusting, optional\n▢½ teaspoon Vanilla Extract\n▢1 tablespoon honey\n▢⅓ cup milk chocolate, 70 gms",
+      "steps": "Melt chocolate in a microwave for 30-45 seconds & set aside to cool. Microwave in 15 second increments because chocolate burns easily.\n⅓ cup milk chocolate\nIn a blender, combine grated paneer, milk, cocoa powder, vanilla, honey and melted chocolate.\n150 gms grated paneer,6 tablespoons milk,1.5 tablespoons cocoa powder + for dusting,½ teaspoon Vanilla Extract,1 tablespoon honey\nBlend the mixture until smooth.\nPour the mixture in a bowl & refrigerate for 6 hours or overnight to set.\nJust before serving, dust with cocoa powder."
+    },
+    {
+      "id": "527c",
+      "title": "Chicken Lollipop",
+      "image": "https://myfoodstory.com/wp-content/uploads/2020/02/Chicken-Lollipop-5.jpg",
+      "ingredients": "500 grams Chicken lollipop\n▢1/4 cup Soy sauce\n▢1 tbsp Vinegar\n▢1 tbsp Tomato ketchup\n▢1 tbsp Red chilli powder\n▢1 tbsp Garlic paste\n▢1/4 tsp Salt\n▢1/4 cup Cornflour\n▢2 tbsp All purpose flour\n▢2 tbsp Rice flour\n▢1 Egg\n▢1 tbsp Ginger paste\n▢Oil , for frying",
+      "steps": "Whisk together soy sauce, vinegar, tomato ketchup, red chilli powder, garlic paste, salt in a bowl and toss the chicken lollipops in it. Marinade for half an hour.\nIn the same bowl, add cornflour, all purpose flour, rice flour, egg and ginger paste and mix well to create a thick batter and coat the lollipops in it.\nHeat about two inches oil in a wok or kadhai to 350F/ 176C. Add the battered lollipops one by one to the oil in such a way that the meat is at the bottom and the bone is on top (watch the video to see how I do it). Fry these on medium high heat till golden brown – approx 3-4 minutes.\nTake these out on a tissue paper to blot out any excess oil and serve hot with schezwan sauce"
+    },
+    {
+      "id": "a372",
+      "title": "Eggless Chocolate Brownies",
+      "image": "https://myfoodstory.com/wp-content/uploads/2015/10/homemade-eggless-chocolate-brownies-2.jpg",
+      "authorImg": "/img/top-chiefs/default.jpg",
+      "ingredients": "▢3/4 cup All Purpose Flour , (Maida)\n▢2 teaspoons Baking Powder\n▢1/3 cup Cocoa Powder\n▢1/4 teaspoon Salt\n▢1 cup Chocolate, chopped\n▢1/2 cup Butter\n▢3/4 cup Greek Yogurt\n▢1 teaspoon Vanilla Extract\n▢3/4 Cup Sugar\n▢1/4 cup Walnuts",
+      "steps": "Preheat oven to 180C/350F\nLine an 8X8 inch baking dish with parchment paper or aluminium foil, and brush all sides with butter.\nSift flour, salt, baking powder and cocoa powder in a bowl and set aside.\nIn another bowl, place chocolate and butter and microwave in 30 second intervals till the butter melt. Mix well and add yogurt, vanilla extract and sugar. Whisk well for 1-2 minutes.\nAdd the liquid mixture to the flour mixture and mix till combined. The mixture will be on the thicker side. Fold in the walnuts, or you can sprinkle them on top.\nPour into the prepared baking pan and bake for 40 minutes. Start checking if the brownies are cooked by inserting a fork or toothpick in the center at the 35 minute mark.\nOnce baked, cool the brownies in the pan completely before inverting them onto a metal rack. Cut into slices and serve."
+    },
+    {
+      "id": "f35f",
+      "title": "One-Bowl Chocolate Cake",
+      "image": "https://myfoodstory.com/wp-content/uploads/2023/01/One-Bowl-Chocolate-Cake-2.jpg",
+      "authorImg": "/img/top-chiefs/default.jpg",
+      "ingredients": "1 cup All Purpose Flour, 125 grams\n▢3/4 cup Sugar, 150 grams\n▢1/4 cup Cocoa Powder, 32 grams\n▢1 tsp Baking Soda\n▢1/2 tsp Baking Powder\n▢1/4 tsp Salt\n▢1 tsp Vanilla Extract\n▢1 Egg\n▢1/2 cup Oil, 125 millilitres\n▢1/2 cup Curd or Yogurt, 130 millilitres\n▢1/2 cup Hot Black Coffee, 1 Teaspoon Coffee dissolved in 1/2 cup of hot water",
+      "steps": "Line and grease a 6 inch tin with parchment paper. Preheat the oven to 180C\nAdd all purpose flour, sugar, cocoa powder, baking soda, baking powder and salt to a bowl. Whisk together until combined.\nAdd vanilla extract, egg, oil and curd. Whisk well until combined, about 1-2 minutes. Scrape the sides of the bowl.\nPour in hot coffee and give it another mix till it's a smooth, runny batter. Bake at 180C for 30-40 minutes or till a skewer inserted into the center comes out clean.\nAllow it to cool for 15 minutes. Demould and transfer to a wire rack and allow it to cool completely before serving or frosting."
+    },
+    {
+      "id": "7ce3",
+      "title": "Makhani Paneer Biryani",
+      "image": "https://myfoodstory.com/wp-content/uploads/2021/10/Paneer-Makhani-Biryani-4.jpg",
+      "ingredients": "Paneer Makhani Gravy\n▢1 tablespoon Oil, neutral flavoured like canola, rice bran, sunflower\n▢3 tablespoons Butter, divided\n▢3 Kashmiri Red Chilies\n▢2 teaspoons Ginger Garlic Paste\n▢1 Bay leaves\n▢1 inch Cinnamon Stick\n▢3 Cloves\n▢2 Cardamoms\n▢½ teaspoon Peppercorns\n▢1 Onion, roughly chopped\n▢6 Tomatoes, roughly chopped\n▢2 tablespoons Cashew Nuts\n▢1 teaspoon Khus Khus White Poppy Seeds\n▢1 ½ teaspoon Salt, divided\n▢½ teaspoon Red Chilli Powder\n▢½ teaspoon Turmeric\n▢½ teaspoon Garam masala\n▢1 ½ teaspoon Dried Kasuri Methi, roasted and crushed\n▢1 ½ tablespoons Ketchup\n▢250 grams Paneer cubes or Cottage Cheese\nBasmati Rice\n▢2 Cups Basmati Rice\n▢1 Bay Leaf\n▢2 Tablespoon Salt\n▢1 Tablespoon Ghee\n▢6 cups Water\nLayering\n▢3 Tablespoons Ghee\n▢½ Cup chopped Coriander Leaves\n▢½ Cup chopped Mint Leaves\n▢⅓ Cup Fried Onions, divided",
+      "steps": "Paneer Makhani Gravy\n\nWrap the whole spices (bay leaf, cardamom, cloves, pepper) in a cheesecloth or muslin to make a bouquet garni.\nIn a large pan or kadhai, heat a tablespoon of butter and a tablespoon of oil. Add onion, kashmiri red chillies, tomatoes and ginger garlic paste and saute for 2-3 minutes\nNext add cashews, chilli powder, poppy seeds, turmeric powder, water and salt. Stir and bring to a boil. Add the muslin cloth with the whole spices and cook for 3-4 minutes.\nRemove the muslin cloth and keep it aside. Add kasuri methi, garam masala and ketchup and stir to combine. Turn off the heat and allow it to cool.\nOnce cooled down, transfer to a blender and blend to a smooth consistency. Set aside.\nBasmati Rice\nBring water to a roaring boil in a large stockpot. Add bay leaf, salt and soaked basmati rice. Add ghee and mix to combine.\nCook for 7 minutes or until the rice is 85% cooked. Drain the water once done and keep the rice aside for later.\nLayering\nAdd the prepared gravy to a large heavy bottomed pot or dutch oven. Allow it to simmer and add the paneer cubes. Stir to combine and allow it to cook for 1 minute.\nSprinkle mint, coriander leaves and fried onions. Now add parboiled rice and level it. Drizzle ghee on the top. Place a small cup in the centre and place a piece of hot coal inside it. Add a spoon of ghee or oil. Once you see smoke come out, tightly cover it immediately.\nCook on a low flame for 15 minutes. If you don't have a heavy bottomed pot, keep your pot on a tava or skillet with the flame on. This prevents the bottom from burning. Once 15 minutes are up, turn off the flame and rest for 10 minutes.\nFinally remove the coal and sprinkle the remaining fried onions on top, lightly mix and serve hot."
+    },
+    {
+      "id": "a005",
+      "title": "cheese maaggi",
+      "image": "https://images.unsplash.com/photo-1625236602193-b4872df9fb71?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8ZnJlbmNoJTIwZnJ5fGVufDB8fDB8fHww",
+      "ingredients": "wert",
+      "steps": "12234"
+    }
+  ]
+}

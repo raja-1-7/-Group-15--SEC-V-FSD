@@ -1,0 +1,78 @@
+/* Main Container */
+.container.main {
+    margin-bottom: 150px; /* Ensure footer doesn't block content, adjust based on footer height */
+  }
+  
+  /* Add Recipe Form */
+  .add-recipe-form {
+    display: flex;
+    flex-wrap: wrap; /* Allow fields to wrap on smaller screens */
+    gap: 20px; /* Space between the form fields */
+    margin-top: 20px;
+  }
+  
+  /* Label and Input Fields Side by Side */
+  .add-recipe-form label {
+    display: flex;
+    flex-direction: column; /* Stack the label and input field vertically */
+    width: 22%;  /* Each label-input pair takes up 22% of the width */
+    margin-bottom: 15px; /* Space between fields */
+  }
+  
+  /* Styling for Input and Textarea Fields */
+  .add-recipe-form input,
+  .add-recipe-form textarea {
+    width: 100%;  /* Ensure inputs and textareas take full width of the container */
+    padding: 8px;
+    margin-top: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;  /* Include padding in the width calculation */
+  }
+  
+  /* Button Styling */
+  .add-recipe-form button {
+    width: 100%;     /* Button takes full width */
+    padding: 10px;
+    background-color: var(--primary-color);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 15px;  /* Space between the form fields and the button */
+  }
+  
+  .add-recipe-form button:hover {
+    background-color: #e04f29;
+  }
+  
+  /* Footer */
+  .footer {
+    background-color: #0f0f0f;
+    color: #fff;
+    padding-block: 3em;
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr;
+    grid-gap: 1em;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    opacity: 70%;
+    z-index: 999; /* Ensure footer stays above content */
+    box-sizing: border-box;
+  }
+  
+  .footer-section {
+    p {
+      opacity: 100;
+      margin-bottom: .003em;
+    }
+    p.title {
+      opacity: 100;
+      font-size: 1.1em;
+      font-weight: bold;
+      margin-bottom: 0;
+    }
+  }
+  

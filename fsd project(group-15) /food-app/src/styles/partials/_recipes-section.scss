@@ -1,0 +1,123 @@
+/* Recipes Container */
+.recipes-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    grid-gap: 1.5em;
+  }
+  
+  /* Recipe Card */
+  .recipe-card {
+    display: flex;
+    flex-direction: column; /* Stack the content vertically */
+    isolation: isolate;
+    border-radius: 5px;
+    overflow: hidden;
+    box-shadow: 0 5px 15px var(--shadow-color);
+    background-color: var(--background-color);
+    height: 100%; /* Ensure the card stretches to fit content */
+  }
+  
+  /* Recipe Card Content */
+  .recipe-card-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 15px;
+    flex-grow: 1; /* Allows this section to grow and take up available space */
+  }
+  
+  /* Custom Image Styling */
+  .custom-image {
+    z-index: -1;
+  }
+  
+  .auther-img {
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    border: 3px solid var(--background-light);
+    box-shadow: 0 1px 3px var(--shadow-color);
+    margin-top: -50px;
+    z-index: 2;
+  }
+  
+  .recipe-title {
+    font-size: 1.25em;
+    font-weight: bold;
+    margin-bottom: 0.5em;
+    color: var(--text-color); /* Title color */
+    margin-top: 0.25em;
+  }
+  
+  /* Ingredients and Steps in White */
+  .recipe-ingredients,
+  .recipe-steps {
+    font-size: 1em;
+    color: white; /* Set ingredients and steps text to white */
+    letter-spacing: 1px;
+  }
+  
+  /* Recipe Description */
+  .recipe-desc {
+    color: var(--text-light);
+    font-size: 0.9em;
+    letter-spacing: 1px;
+    margin-bottom: 1em; /* Add some spacing before the buttons */
+  }
+  
+  /* View Recipe Button */
+  .view-btn {
+    font-size: 1em;
+    font-weight: bold;
+    color: var(--primary-color);
+    margin-top: 0.75em;
+    display: inline-block;
+    cursor: pointer;
+    text-decoration: underline;
+    background-color: transparent;  /* Ensure button has no background */
+    border: none; /* Remove default border of the button */
+    padding: 0;  /* Remove extra padding */
+  }
+  
+  .view-btn:hover {
+    color: #e04f29; /* Highlight color on hover */
+  }
+  
+  /* Delete and Edit Buttons */
+  .recipe-card-buttons {
+    display: flex;
+    justify-content: space-between; /* Spread out buttons */
+    margin-top: 1em; /* Space between content and buttons */
+  }
+  /* Search Bar Styling */
+.search-container {
+    margin: 20px 0;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .search-container input {
+    padding: 10px;
+    width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1em;
+  }
+  
+  /* Styling for buttons */
+  button {
+    padding: 5px 10px;
+    background-color: var(--primary-color);
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    flex: 1; /* Allow buttons to fill the available space evenly */
+    margin-left: 5px; /* Add spacing between buttons */
+    min-width: 80px; /* Set minimum width for buttons */
+  }
+  
+  button:hover {
+    background-color: #e04f29;
+  }
+  

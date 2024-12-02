@@ -1,0 +1,76 @@
+/* Global reset for all elements */
+*,
+*::before,
+*::after {
+  box-sizing: border-box; /* Include padding and borders in width/height */
+}
+
+.navbar {
+  height: 80px;
+  box-shadow: 0 3px 6px var(--shadow-color);
+  background-color: var(--background-color);
+  color: var(--text-color);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  z-index: 998;
+  left: 0;  /* Ensure it's aligned to the left edge of the screen */
+  overflow: hidden; /* Prevent any child elements from overflowing */
+
+  /* Optional: Add padding or margin to prevent overlapping */
+  padding: 0 1rem;
+
+  .logo {
+    font-size: 2.5em;
+    font-weight: bolder;
+    color: var(--primary-color);
+    text-shadow: 0 1px 3px var(--shadow-color);
+    
+    span {
+      color: white;
+    }
+  }
+
+  .nav-links {
+    display: flex; /* Use flexbox to align links */
+    align-items: center;
+
+    a {
+      margin-left: 1em;
+      color: white;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      position: relative;
+      font-size: 1em;
+      text-decoration: none;
+
+      /* Underline effect */
+      &::before {
+        content: '';
+        display: inline-block;
+        height: 3px;
+        width: 100%;
+        background-color: var(--primary-color);
+        position: absolute;
+        bottom: -5px;
+        left: 0;
+        transform: scaleX(0);
+        transition: transform 0.2s ease-in-out;
+      }
+
+      &:hover {
+        &::before {
+          transform: scaleX(1);
+        }
+      }
+
+      &.active {
+        color: var(--primary-color);
+        font-weight: bold;
+      }
+    }
+  }
+}
